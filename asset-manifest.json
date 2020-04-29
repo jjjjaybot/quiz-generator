@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quiz-generator/static/css/main.73959355.chunk.css",
+    "main.js": "/quiz-generator/static/js/main.d44b91b4.chunk.js",
+    "main.js.map": "/quiz-generator/static/js/main.d44b91b4.chunk.js.map",
+    "runtime-main.js": "/quiz-generator/static/js/runtime-main.fb3486ad.js",
+    "runtime-main.js.map": "/quiz-generator/static/js/runtime-main.fb3486ad.js.map",
+    "static/js/2.ee69cf39.chunk.js": "/quiz-generator/static/js/2.ee69cf39.chunk.js",
+    "static/js/2.ee69cf39.chunk.js.map": "/quiz-generator/static/js/2.ee69cf39.chunk.js.map",
+    "index.html": "/quiz-generator/index.html",
+    "precache-manifest.b4d479982491a838faabb006e93a5a84.js": "/quiz-generator/precache-manifest.b4d479982491a838faabb006e93a5a84.js",
+    "service-worker.js": "/quiz-generator/service-worker.js",
+    "static/css/main.73959355.chunk.css.map": "/quiz-generator/static/css/main.73959355.chunk.css.map",
+    "static/js/2.ee69cf39.chunk.js.LICENSE.txt": "/quiz-generator/static/js/2.ee69cf39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb3486ad.js",
+    "static/js/2.ee69cf39.chunk.js",
+    "static/css/main.73959355.chunk.css",
+    "static/js/main.d44b91b4.chunk.js"
+  ]
+}
